@@ -1,2 +1,8 @@
 # helloworld
-#I am lianghe
+#include<stdio.h>
+int main()
+{
+
+printf("Hello world! I am lianghe.");
+return 0;
+}
